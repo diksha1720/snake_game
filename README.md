@@ -1,3 +1,6 @@
 # snake_game
-![Screenshot](snake_game_1.png)
+![Screenshot](images/snake_game_1.PNG)
+![Screenshot](images/snake_game_2.PNG)
+![Screenshot](images/snake_game_3.PNG)
+
 
