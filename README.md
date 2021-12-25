@@ -1,3 +1,3 @@
 # snake_game
-![Screenshot](snake_game_1.png)
+![Screenshot](snake_game_1.PNG)
 
