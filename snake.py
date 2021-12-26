@@ -20,6 +20,7 @@ class Snake:
     def add_segment(self, position):
         t = Turtle("square")
         t.color("white")
+
         t.penup()
         t.goto(position)
         self.segments.append(t)
