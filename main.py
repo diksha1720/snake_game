@@ -39,8 +39,6 @@ while flag:
         scoreboard.game_over()
         snake.restart()
 
-
-
     #Detect colission with tail
     for segment in snake.segments[1:]:
         if snake.head.distance(segment) < 10:
